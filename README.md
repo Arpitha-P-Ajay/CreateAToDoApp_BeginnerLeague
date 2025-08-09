@@ -17,7 +17,7 @@ Learned from Youtube to store the file data
 https://arpitha-p-ajay.github.io/CreateAToDoApp_BeginnerLeague/
 
 The WOW factor here is that the tasks will still remain even if you refresh the page. Also there is a progress bar that let you know the number of completed tasks from total tasks.
-And also you can edit the tasks before completion.
+And also you can edit the tasks before completion. It is Responsive
 
 # Screenshots
 
